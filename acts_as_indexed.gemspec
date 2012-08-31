@@ -28,6 +28,7 @@ Gem::Specification.new do |s|
     "lib/acts_as_indexed/class_methods.rb",
     "lib/acts_as_indexed/configuration.rb",
     "lib/acts_as_indexed/instance_methods.rb",
+    "lib/acts_as_indexed/multi_search.rb",
     "lib/acts_as_indexed/search_atom.rb",
     "lib/acts_as_indexed/search_index.rb",
     "lib/acts_as_indexed/singleton_methods.rb",
